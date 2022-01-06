@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santamargarita1
+- 👋 Hi, I’m @marjicaws
 - 👀 I’m interested in ... Many things! Music, Snowboarding, Cooking, Drinking, Horror Movies, Dancing, 
 - 🌱 I’m currently learning ... Javascript, React, and whatever else is included in my bootcamp!
 - 💞️ I’m looking to collaborate on ... Projects concerning game building and websites but I'm open to anything.
